@@ -9,3 +9,5 @@ Image of the site:
 
 [image of the site]: ReadMeMaterials/siteImage.JPG "image of the site"
 
+YouTube video of the page in action:
+[Video](https://www.youtube.com/watch?v=zIfPW_a536c)
