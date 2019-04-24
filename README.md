@@ -6,7 +6,7 @@ This is an example landing page using creative front end design techniques.
 Here's our logo (hover to see the title text):
 
 Image of the site:
-![image of the site]( "image of the site")
+![image of the site](ReadMeMaterials/siteImage.JPG "image of the site")
 
-[image of the site]:  "image of the site"
+[image of the site]: ReadMeMaterials/siteImage.JPG "image of the site"
 
